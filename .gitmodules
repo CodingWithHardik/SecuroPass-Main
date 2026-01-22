@@ -1,9 +1,12 @@
 [submodule "SecuroPass"]
 	path = SecuroPass
 	url = https://github.com/CodingWithHardik/SecuroPass.git
+    branch = main
 [submodule "SecuroPass-API"]
 	path = SecuroPass-API
 	url = https://github.com/CodingWithHardik/SecuroPass-API.git
+    branch = master
 [submodule "SecuroPass-Mail_Service"]
 	path = SecuroPass-Mail_Service
 	url = https://github.com/CodingWithHardik/SecuroPass-Mail_Service.git
+    branch = main
